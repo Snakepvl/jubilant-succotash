@@ -1,0 +1,31 @@
+#web {
+    color: rgb(183, 0, 255);
+    font-size: 60xp;
+}
+.service {
+    color:blue;
+}
+.work {
+    color: black;
+}
+h1,.work,.service,#web {
+    border:3px solid pink;
+}
+div h1.danger {
+    color: khaki;
+    font-size: 20px;
+}
+div h2.danger {
+    color: black;
+    font-size: xx-large;
+    font-size: 20px;
+}
+body {
+    color: orange;
+}
+html div h1.danger {
+    color: aliceblue;
+}
+html div h1.danger {
+    color: rgb(255, 0, 0)!important;
+}
